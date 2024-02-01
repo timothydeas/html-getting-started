@@ -1,1 +1,32 @@
 /* Add screen styles below */
+body {
+   background: #598B8C; 
+   margin-top: 100px;
+}
+
+.card {
+    background: #E1F1FE;
+    color: #598B8C;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    font-family: 'Lucida Sans regular';
+}
+
+.card div {
+    padding: 20px;
+}
+h1 {
+    background:#001A23;
+    padding: 20px;
+    margin: 0;
+    border-radius: 20px 20px 0 0;
+}
+
+img {
+    float: left;
+    margin-right: 30px;
+}
+
